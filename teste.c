@@ -8,7 +8,7 @@ int a = 5;
 
 int b = 8; 
 
-int soma = a + b;
+int soma = a * b;
 
 return 0;
 

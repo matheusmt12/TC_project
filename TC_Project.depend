@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1626107767 source:c:\users\matheus souza\desktop\c++\tc_project\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstring>
+
+1626407357 source:c:\users\vini7\onedrive\documentos\0 - 2020.2\teoria da computação\projeto tc\tc_project\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstring>
+	<locale.h>
+

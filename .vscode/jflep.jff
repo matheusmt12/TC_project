@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>&#13;
+	<type>fa</type>&#13;
+	<automaton>&#13;
+		<!--The list of states.-->&#13;
+		<state id=name=>&#13;
+			<x></x>&#13;
+			<y></y>&#13;
+			<initial/>&#13;
+		</state>&#13;
+	</automaton>&#13;
+</structure>
